@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Светофор</string>
+    <string name="red">Красный</string>
+    <string name="green">Зеленый</string>
+    <string name="yellow">Желтый</string>
+    <string name="exit_menu">Выйти</string>
+    <string name="red_tv">Стой!</string>
+    <string name="yellow_tv">Внимание!</string>
+    <string name="green_tv">Движение разрешено!</string>
+</resources>
